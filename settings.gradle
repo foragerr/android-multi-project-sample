@@ -1,0 +1,1 @@
+include ':app', ':MyApplication2:mylibrary'
